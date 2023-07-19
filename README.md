@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Government Digital Experience - Public-facing websites to inform and assist the people of BC
+##### 🔭  I’m currently working on Government Digital Experience - Public-facing websites to inform and assist the people of BC
 
-🌱 I’m currently learning all things GitHub: PRs, Markdown, and Actions (next I'll learn containers, Kubernetes, and OpenShift)
+##### 🌱 I’m currently learning all things GitHub: PRs, Markdown, and Actions (next I'll learn containers, Kubernetes, and OpenShift)
 
-⚡ Fun fact: A daily meditation practice (first thing in the morning!) can help you
-   - regulate your emotions (stay chill on that commute)
-   - build your will power (executive malfunctions begone!)
-   - cultivate a quiet(er) mind (what was I thinking about just now?)
+##### ⚡ Fun fact: A daily meditation practice (first thing in the morning!) can help you:
+   - [x] regulate your emotions (stay chill on that commute)
+   - [x] build your will power (executive malfunctions begone!)
+   - [x] cultivate a quiet(er) mind (what was I thinking about just now?)
 
 
 
